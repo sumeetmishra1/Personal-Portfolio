@@ -27,8 +27,8 @@ console.warn(
 
 const nextConfig = {
   reactStrictMode: true,
-  basePath: '',
-  assetPrefix: basePath,
+  basePath: '/Personal-Portfolio',
+  assetPrefix: '/Personal-Portfolio',
   publicRuntimeConfig: {
     basePath: basePath,
   },
