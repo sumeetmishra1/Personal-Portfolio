@@ -30,7 +30,7 @@ const nextConfig = {
   basePath: '/Personal-Portfolio',
   assetPrefix: '/Personal-Portfolio',
   publicRuntimeConfig: {
-    basePath: basePath,
+    basePath: '/Personal-Portfolio',
   },
 }
 
